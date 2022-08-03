@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "outDir": "./js", // nơi compile ts -> js
+    "target" :"ES6"
+  }
+}
